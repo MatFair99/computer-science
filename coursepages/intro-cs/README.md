@@ -1,4 +1,4 @@
-# Introduction to Computer Science
+# ✅ Introduction to Computer Science
 
 This course will introduce you to the world of computer science. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
